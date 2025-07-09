@@ -10,7 +10,7 @@ A clean implementation of Tetris using JavaFX and SOLID design principles.
 
 Use the following controls:
 - **A/D**: Move piece left/right
-- **S** or **Down arrow**: Move piece down
+- **S**: Move piece down
 - **Q**: Rotate piece counter-clockwise
 - **E**: Rotate piece clockwise
 
