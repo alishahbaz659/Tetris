@@ -14,7 +14,7 @@ Use the following controls:
 - **Q**: Rotate piece counter-clockwise
 - **E**: Rotate piece clockwise
 
-Clear horizontal lines to score points:
+Horizontal lines to score points:
 - 10 points per line cleared
 
 ## Build and Run
